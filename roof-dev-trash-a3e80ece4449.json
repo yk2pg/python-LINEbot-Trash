@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "roof-dev-trash",
+  "private_key_id": "a3e80ece44494a34e8841714273ee2a5ecb5250b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCllkQjF27YdIsw\nd2QT0DeoQETk13YUXOKssVVUMFsqjqtpGvWazSUUjiGt8Z6IgLWWhREiqaENWYjM\nzPcO4DcUKELhpwevG8CgmstevglDzr4oJspEMzOBNa0Vo1EoHvdCw10E5CZaNDxV\nqQUdntvCDOL2e/VwT299RXAKKDubD/mI0xcVk00W+m4J4JHhw6co/xkNIuVmJwGt\n9D2VXaOb2ITz1O3FuDvlD9/jC3/chNqZLBSP3ixZQI3AUX5ZwOoJP7/RuCV21+/A\no8LkrUzRwWAt/LRR0OxP0V2vx9qCA8QX56REJmDSo+Xn5bTmODAtNQsZXZyAqZIJ\n3ltOahENAgMBAAECggEAHTi69oxkmdtbUubG6P42TEFnRxFE+8v2jq5O1iggdo6t\n7kL9M9/fGtUIWYeJyCIaqaD7CKhxzQbPbwD+2oe0AKEoSGUvJHZb1JvspuAXh3ld\nMn3B9S4p+TPtQyPKpy9ryELsz/epUwLj4OQOjI8jzgdzKDdw9Wx3St6tqoU2G6N5\nqOL7DkoW1AUmn//kr6rmbE5rHdHfvl0OIAbhyJnL6Tf8coqO2buW/cuf+9dJuPow\n5xpBfddniqgdKo8YHMw3wP09Lngi+QOtQff7jFszDM9xGPhAVRbj3Fjy3WGb5sa7\n24dL0n6XQTWov5kS46BKOp4yK+P0QHcZ1Ki0ExsWKwKBgQDfJ2XanTcdxfjH0htR\nk78Ccqnbam/Wm0YH6sRpWPKFw4QYUmsBDppZ5isol/Cypi1BD+a/v5lPMejFIB1X\nsXRR4OAftrZ7oDZzp67SN5TTpizbvlkSW8QiVRlTL0CNKNszMIVZ8Qb3lpYOvd9R\nMINl/FWqyAUQj4MxLQIkH43rKwKBgQC99bRg9BF6L1nXmOXJBNxYUgswxRuy2bEC\ngP4Yqoa1FKkTP+YXmylrzzk7RdpMpcJ1SLM6fj1ftA+6T9OVi0jDjzkYlKFSsLuT\nXnc/UEdmstLtrY22Z/kLvJGQ6IeKE9+hAEg9sLuRCZEF9mZEQ0xtbQ8JgM+pcw/z\nA1c/JQz4pwKBgF6ov7P0bKTcjaN1pND981B+gz7n73kBdLt3AsoNSRMk1Kvcijdw\nklkAId6eVSPzCc9Hh4JfLBFEApFcBhZk2ArDcU8CmnXmiDKXNrlFioQdQXoVTINV\nGeXWY1+984vtgM4+DtMQQvxTjGPEdy5hfduNJmnDXyKfPe9mQDpCiFjxAoGAet4w\nW/3CSDvUasV0677/HwmCP3te3SI9ghcZQ68ZDotciRztoRs1gYw5woL+HlGhI+dw\nNkdtPzfibGoxuyqqWAONtL5+UlQKH9ocW5F7fYvxLtbxMKizx8mihg5BjSgpn6Pl\nFjH4QGnlqeukXkcBak3+SfFNYJcSG+dvSWKXr0UCgYEAlCkp2bX9ZExgLo16cCNf\nlYJLVsvX1i4SWTl9Yn29zomgeV2DethTOWWSrVIwkDSe0TaD0vwqIpmApMmwLUMc\nU0C1JZWkKuGt4OpUaL0Nbj1yLVtj1nyoXPYZvYHf7gl73NI3Fa9X0cQ8u1zz9eVJ\nCBl03BQChnSQpJEivsgVsa8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "trash-member-sheet@roof-dev-trash.iam.gserviceaccount.com",
+  "client_id": "117217604159200023739",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trash-member-sheet%40roof-dev-trash.iam.gserviceaccount.com"
+}
